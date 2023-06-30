@@ -44,7 +44,7 @@ public class Main {
 //        }
 
         // assign3: Search Convert the getAllProduc.... method using a streamAPI.
-
+        // assign4: Convert getProduct(String name) so that data is fetched from the database
 
 
 
